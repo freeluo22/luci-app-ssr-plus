@@ -1,4 +1,4 @@
-name: ssrp aarch64_generic
+name: aarch64_generic
 
 on:
   workflow_dispatch:
